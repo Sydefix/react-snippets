@@ -1,3 +1,3 @@
 # React snippets
 
-Here you can find a list of react snippets to make it easier to make websites.
+Here you can find a list of react snippets that can help with making a website.
